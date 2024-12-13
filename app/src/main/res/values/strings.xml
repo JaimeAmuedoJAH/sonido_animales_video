@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">sonido_animales_video</string>
+    <string name="btn_jugar">Jugar</string>
+    <string name="menu_title">Sonido de animales</string>
+
+    <string name="item_tipo">Tipo</string>
+    <string name="item_salir">Salir</string>
+    <string name="item_domesticos">Domésticos</string>
+    <string name="item_salvajes">Salvajes</string>
+    <string name="item_aves">Aves</string>
+
+    <string name="dialog_title">Salir del programa</string>
+    <string name="dialog_message">¿Quieres Salir del programa?</string>
+    <string name="dialog_negative">No</string>
+    <string name="dialog_positive">Si</string>
+</resources>
